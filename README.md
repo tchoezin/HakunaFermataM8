@@ -10,3 +10,8 @@ minutes of the song, there's a calm flow to the song as the beat is simple and t
 of a lake's flow. Partway through the song, the beat becomes more intricate, and the melody becomes an improvisational riff, akin to quickly
 flowing and changing water such as that of a creek. 'Running Water' also utilizes nostalgic sounds such as vinyl record noise and phone noise
 to create an atmosphere of comfort and calm.
+
+Bibliography:
+https://sonic-pi.mehackit.org/exercises/en/01-introduction/01-introduction.html
+https://feelyoursound.com/scale-chords/e-melodic-minor/
+http://www.piano-keyboard-guide.com/key-of-e-minor.html
